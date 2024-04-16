@@ -4,7 +4,8 @@
 
 ### FE React code assignment
 
-### The objective of this challenge is to create a collection of recipes fetched from an API, render them, and style the list accordingly. A colleague has initiated the task, but it requires completion. Although finishing might be challenging, we aim to accomplish as many steps as possible.
+### The objective of this challenge is to create a collection of recipes fetched from an API, render them, and style the list accordingly.
+### A colleague has initiated the task, but it requires completion. Although finishing might be challenging, we aim to accomplish as many steps as possible.
 
 ### Some of the files we need to edit already include test files for verification.
 
