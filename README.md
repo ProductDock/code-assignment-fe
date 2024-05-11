@@ -17,6 +17,7 @@ Assignment:
       - previous button is not visible when the first page is active
       - next button is not visible when the last page is active
       - page number should be persisted in the URL (on page refresh last active page should still be active)
+      - if there is only one page next and previous buttons should not be visible
  
 Ships UI design 
 ![ships.png](ships.png)
