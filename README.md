@@ -4,8 +4,6 @@
 
 ### Junior assignment
 
-Assignment:
-
 - You're building simple web application for displaying Ships
   from [SpaceX API](https://github.com/r-spacex/SpaceX-API/tree/master/docs/ships/v4)
 - Ships app should have:
