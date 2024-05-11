@@ -2,7 +2,7 @@
 
 ### FE React code assignment
 
-### Junior
+### Junior assignment
 
 Assignment:
 
